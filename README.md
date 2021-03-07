@@ -1,6 +1,6 @@
-### Sparkify ETL Pipeline Project
+### Sparkify ETL Pipeline  Project
 
-#### 1. Project summary
+#### 1. Project summary 
 
 The purpose of this project is to create a DB schema and an ETL pipeline in Python to support the song play analysis in Sparkify. 
 
